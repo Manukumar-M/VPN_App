@@ -1,0 +1,4 @@
+Requirement already satisfied: setuptools_rust in /home/manu/Desktop/Generate_Certificate/certificate/lib/python3.6/site-packages
+Requirement already satisfied: typing-extensions>=3.7.4.3 in /home/manu/Desktop/Generate_Certificate/certificate/lib/python3.6/site-packages (from setuptools_rust)
+Requirement already satisfied: semantic-version<3,>=2.8.2 in /home/manu/Desktop/Generate_Certificate/certificate/lib/python3.6/site-packages (from setuptools_rust)
+Requirement already satisfied: setuptools>=46.1 in /home/manu/Desktop/Generate_Certificate/certificate/lib/python3.6/site-packages (from setuptools_rust)
